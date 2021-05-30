@@ -1,8 +1,8 @@
-# VSCode setup used in the course
+# VSCode setup used in the projects
 
 ### Theme
 
-I use the `Oceanic Next` theme with the dimmed bg option. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
+I use the `Monokai` theme with the dimmed bg option. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
 
 ### Extensions used in course videos
 
