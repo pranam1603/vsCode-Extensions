@@ -36,7 +36,7 @@ If you want your editor to work and look exactly the same way as mine does in th
 
 ```
 {
-  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "workbench.colorTheme": "Monokai",
   "files.autoSave": "onFocusChange",
   "editor.minimap.enabled": true,
   "workbench.statusBar.visible": true,
