@@ -1,10 +1,10 @@
-# VSCode setup used in the projects
+# My VSCode setup 
 
 ### Theme
 
 I use the `Monokai` theme with the dimmed bg option. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-FlatlandMonokai)
 
-### Extensions used in course videos
+### Extensions used in my code editor
 
 For each of the extensions, read the overview page in order to learn how to use it.
 
@@ -24,7 +24,7 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `React Refactor` to refactor the react code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
 
-### Other extensions I use (will keep it updated) 
+### Other extensions I use 
 
 `SCSS Formatter` A Visual Studio Code Extension to format SCSS . [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
 
@@ -32,7 +32,6 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 ### Settings
 
-If you want your editor to work and look exactly the same way as mine does in the course videos, you can copy these settings to your own settings file. Just go to settings in VSCode, and on the right side, you can paste this code.
 
 ```
 {
